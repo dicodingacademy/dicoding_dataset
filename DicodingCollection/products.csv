@@ -1,4 +1,4 @@
-product_ID,product_type,product_name,size,colour,price,quantity,description
+product_id,product_type,product_name,size,colour,price,quantity,description
 0,Shirt,Oxford Cloth,XS,red,114,66,"A red coloured, XS sized, Oxford Cloth Shirt"
 1,Shirt,Oxford Cloth,S,red,114,53,"A red coloured, S sized, Oxford Cloth Shirt"
 2,Shirt,Oxford Cloth,M,red,114,54,"A red coloured, M sized, Oxford Cloth Shirt"
